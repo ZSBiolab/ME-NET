@@ -9,7 +9,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvi
 # Others 
 
 ```shell
-pip install -r requirement.txt
+
 conda install  torch  scipy
 
 ```
